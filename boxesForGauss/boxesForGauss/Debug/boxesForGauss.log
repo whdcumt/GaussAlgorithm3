@@ -1,0 +1,31 @@
+﻿生成启动时间为 9/26/2016 3:07:17 PM。
+     1>项目“D:\CppNote\boxesForGauss\boxesForGauss\boxesForGauss.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\boxesForGauss.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\boxesForGauss.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt boxesForGauss.cpp
+         boxesForGauss.cpp
+     1>d:\cppnote\boxesforgauss\boxesforgauss\boxesforgauss.cpp(22): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>d:\cppnote\boxesforgauss\boxesforgauss\boxesforgauss.cpp(25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\cppnote\boxesforgauss\boxesforgauss\boxesforgauss.cpp(37): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CppNote\boxesForGauss\Debug\boxesForGauss.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\boxesForGauss.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\CppNote\boxesForGauss\Debug\boxesForGauss.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CppNote\boxesForGauss\Debug\boxesForGauss.lib" /MACHINE:X86 Debug\boxesForGauss.exe.embed.manifest.res
+         Debug\boxesForGauss.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\boxesForGauss.exe.embed.manifest" /manifest Debug\boxesForGauss.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         boxesForGauss.vcxproj -> D:\CppNote\boxesForGauss\Debug\boxesForGauss.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\boxesForGauss.unsuccessfulbuild”。
+         正在对“Debug\boxesForGauss.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\CppNote\boxesForGauss\boxesForGauss\boxesForGauss.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.04
